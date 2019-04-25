@@ -1,0 +1,14 @@
+
+p.tab-pane.fade{
+	display:none;
+}
+hr.fw{
+		margin-top:25px;
+		margin-bottom:25px;
+	}
+	.lighter p{
+	color:#ccc;
+}
+.bootstrap-select.form-control{
+	margin-bottom:20px!important;
+}
